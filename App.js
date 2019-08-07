@@ -11,7 +11,7 @@ export default class LotsOfGreetings extends Component {
   render() {
     return (
       <View>
-        <Header headerText={"Albumsss"} />
+        <Header headerText={"Albums ss"} />
 
         <AlbumListClassComponent />
       </View>
